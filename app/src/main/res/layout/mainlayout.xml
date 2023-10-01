@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="20dp"
+    android:layout_height="match_parent">
+<androidx.appcompat.widget.AppCompatButton
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:text="Tell Me My Direction"
+    android:textAllCaps="false"
+    android:textSize="20sp"
+    android:layout_marginTop="25dp"
+    />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Send My Location"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginTop="25dp"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Object Detection"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginTop="25dp"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Text Detection"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginTop="25dp"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Currency Detection"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginTop="25dp"
+        />
+</LinearLayout>
